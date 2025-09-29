@@ -7,7 +7,7 @@ Front-End Developer
 An enthusiastic Junior Front-end Developer passionate about creating engaging and functional web experiences.
 
 *   🌍  I'm based in Tamaulipas, Ciudad Victoria
-*   🖥️  See my portfolio at [MyPortafolio]([[https://portafolio-lilac-six.vercel.app/](https://portfolio-two-lyart-91.vercel.app/)])
+*   🖥️  See my portfolio at [My Portfolio](https://portfolio-two-lyart-91.vercel.app/)
 *   ✉️  You can contact me at [ernestoserna94@gmail.com](mailto:ernestoserna94@gmail.com)
 *   🧠  I'm learning JavaScript advanced concepts
 *   🤝  I'm open to collaborating on Next.js Proyects
